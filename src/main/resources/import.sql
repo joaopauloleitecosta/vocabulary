@@ -1,0 +1,11 @@
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('hello','olá','Hello!, good Morning!','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('goodbye','adeus','Goodbye my friend, see you tomorrow.','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('thank you','obrigado','Thank you for your help!','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('please','por favor','Can you help me, please?','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('excuse me','com licença','Excuse me, where is the bathroom?','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('good night','boa noite','Good night, sleep well.','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('how much','quanto custa','How much is this book?','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('I am hungry','estou com fome','I am hungry, lets eat something.','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('what time is it?','que horas são','Excuse me, what time is it?','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('see you later','até mais','I have to go now, see you later.','');
+INSERT INTO tb_vocabulary (word_or_phrase, translation, example, reference_link) VALUES ('good morning','bom dia','Good morning everyone!','');
