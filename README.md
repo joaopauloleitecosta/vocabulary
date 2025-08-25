@@ -151,7 +151,7 @@ Response if not found:
 
 ---
 
-## 📷 Demonstração (Exemplo de Tela)
+## 📷 Screenshot
 
 <p align="center">
   <img src="https://github.com/joaopauloleitecosta/vocabulary/blob/main/api.png" width="300" alt="GET request">
