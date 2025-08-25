@@ -151,6 +151,14 @@ Response if not found:
 
 ---
 
+## 📷 Demonstração (Exemplo de Tela)
+
+<p align="center">
+  <img src="https://github.com/joaopauloleitecosta/vocabulary/blob/main/api.png" width="300" alt="GET request">
+</p>
+
+---
+
 ## ▶️ Running the Application
 
 1. Clone the repository:
